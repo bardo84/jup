@@ -2,7 +2,7 @@
   "content": [
     {
       "content": null,
-      "created": "2025-06-19T11:31:00.805243Z",
+      "created": "2025-06-19T11:58:03.910554Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -16,7 +16,7 @@
     },
     {
       "content": null,
-      "created": "2025-06-19T11:31:00.808979Z",
+      "created": "2025-06-19T11:58:03.910554Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -30,7 +30,7 @@
     },
     {
       "content": null,
-      "created": "2025-06-19T11:31:00.811277Z",
+      "created": "2025-06-19T11:58:03.910554Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -44,7 +44,7 @@
     },
     {
       "content": null,
-      "created": "2025-06-19T11:31:00.814290Z",
+      "created": "2025-06-19T11:58:03.910554Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
@@ -57,11 +57,11 @@
       "writable": true
     }
   ],
-  "created": "2025-06-19T11:31:00.805243Z",
+  "created": "2025-06-19T11:58:03.908549Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2025-06-19T11:31:00.814290Z",
+  "last_modified": "2025-06-19T11:58:03.910554Z",
   "mimetype": null,
   "name": "pyodide\\pyb2d\\games",
   "path": "pyodide\\pyb2d\\games",
